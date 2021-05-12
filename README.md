@@ -1,2 +1,2 @@
 # Replace and Search  
-Simple javascript find and replace program made as an exercise for class
+javascript program to find and replace words inside a given text made as an exercise for class
